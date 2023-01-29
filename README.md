@@ -1,13 +1,2 @@
- This repository is not my work but just a copy from: https://github.com/rkinnett/rkinnett.github.io
+ This repository is not my work but just a copy of: https://github.com/rkinnett/rkinnett.github.io
  
- * [Rover Pics](https://rkinnett.github.io/roverpics/) - preview latest raw images from Curiosity or Perseverance.
- * [Rover 3D](https://rkinnett.github.io/rover3d/) - articulable, stylable virtual Perseverance rover.
- * [marsRoVR](https://rkinnett.github.io/marsroVR/) - Perseverance virtual reality experience. 
- * [Mars Globe](https://rkinnett.github.io/mars/) - virtual Mars globe with selectable maps, labels, and POI markers.
- * [Jupiter Globe](https://rkinnett.github.io/jupiter/) - virtual Jupiter globe with selectable maps.
-  
-  
-My [Github.io project tree](https://github.com/rkinnett/rkinnett.github.io)  
-My [other github stuff](https://github.com/rkinnett)  
-  
-Contact me on [Twitter](https://twitter.com/rover_18) or [Discord](https://discord.gg/p87TKEc8Ta).  
