@@ -1,3 +1,5 @@
+ This repository is not my work but just a copy from: https://github.com/rkinnett/rkinnett.github.io
+ 
  * [Rover Pics](https://rkinnett.github.io/roverpics/) - preview latest raw images from Curiosity or Perseverance.
  * [Rover 3D](https://rkinnett.github.io/rover3d/) - articulable, stylable virtual Perseverance rover.
  * [marsRoVR](https://rkinnett.github.io/marsroVR/) - Perseverance virtual reality experience. 
